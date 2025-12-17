@@ -1,0 +1,5 @@
+{
+  "name": "SibiWiFi - Shared Bill Tracker",
+  "description": "A sophisticated bill management system for siblings to track shared WiFi expenses with variable weightage and carry-forward balances.",
+  "requestFramePermissions": []
+}
